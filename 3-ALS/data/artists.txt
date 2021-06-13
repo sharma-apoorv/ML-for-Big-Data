@@ -1,0 +1,3001 @@
+artistID	name
+0	MALICE MIZER
+1	Diary of Dreams
+2	Carpathian Forest
+3	Moi dix Mois
+4	Bella Morte
+5	Moonspell
+6	Marilyn Manson
+7	DIR EN GREY
+8	Combichrist
+9	Grendel
+10	Agonoize
+11	Behemoth
+12	Hocico
+13	Dimmu Borgir
+14	London After Midnight
+15	Psyclon Nine
+16	The Crüxshadows
+17	:wumpscut:
+18	Limbonic Art
+19	Artista sconosciuto
+20	xotox
+21	The Kovenant
+22	Feindflug
+23	Cradle of Filth
+24	Tamtrum
+25	Laibach
+26	Gorgoroth
+27	And One
+28	Amduscia
+29	Covenant
+30	Icon of Coil
+31	KMFDM
+32	Funker Vogt
+33	Dawn of Ashes
+34	Sopor Aeternus & The Ensemble of Shadows
+35	The Faint
+36	God Module
+37	Noisuf-X
+38	Das Ich
+39	Mindless Self Indulgence
+40	Pyotr Ilyich Tchaikovsky
+41	Emperor
+42	Anorexia Nervosa
+43	Reaper
+44	Gothminister
+45	Duran Duran
+46	Morcheeba
+47	Air
+48	Hooverphonic
+49	Kylie Minogue
+50	Daft Punk
+51	Thievery Corporation
+52	Goldfrapp
+53	New Order
+54	Matt Bianco
+55	Talk Talk
+56	Prefab Sprout
+57	Enigma
+58	Röyksopp
+59	Coldplay
+60	Faithless
+61	Madonna
+62	Icehouse
+63	Sade
+64	Moby
+65	Dido
+66	Depeche Mode
+67	Café Del Mar
+68	Basia
+69	Camouflage
+70	Electronic
+71	George Michael
+72	The Adventures
+73	Fiction Factory
+74	Groove Armada
+75	Portishead
+76	Marc Almond
+77	Cock Robin
+78	Cut Copy
+79	Spandau Ballet
+80	Katie Melua
+81	Deacon Blue
+82	Gorillaz
+83	Lady Gaga
+84	Kosheen
+85	Nik Kershaw
+86	Vitamin Z
+87	Jean-Michel Jarre
+88	Ministry of Sound
+89	Simply Red
+90	Fleetwood Mac
+91	Duffy
+92	Japan
+93	INXS
+94	ABC
+95	Pleq
+96	Segue
+97	Max Richter
+98	Celer
+99	Pjusk
+100	Pleq & Segue
+101	Burial
+102	Magnitophono
+103	andy graydon
+104	ddekombinacja
+105	Pleq & Anna Rose Carter
+106	Go Koyashiki
+107	Dustin O'Halloran
+108	offthesky
+109	Nebulo
+110	Fjordne
+111	Pleq & Chihiro
+112	Spyweirdos
+113	billy gomberg + offthesky
+114	Deru
+115	Lukid
+116	Manekinekod
+117	Danny Norbury
+118	Shinkei & Mise En Scene
+119	aslope
+120	The Notwist
+121	Off the Sky
+122	strom noir
+123	Aless
+124	Philippe Lamy
+125	Part Timer
+126	Deaf Center
+127	Lauki
+128	Big Brotherz
+129	cokiyu
+130	Verbose
+131	Worm Is Green
+132	Library Tapes
+133	Richard Skelton
+134	Matryoshka
+135	Aidan Baker
+136	Ylid
+137	Daisuke Miyatani
+138	Dakota Suite
+139	Ryonkt
+140	Hird
+141	Svarte Greiner
+142	The Boats
+143	The Sound Of Lucrecia
+144	Porzellan
+145	Deep Forest
+146	Porcupine Tree
+147	De/Vision
+148	Radiohead
+149	Robbie Williams
+150	VAST
+151	Michael Jackson
+152	עברי לידר
+153	The Cure
+154	אביב גפן
+155	Enrique Iglesias
+156	God Is an Astronaut
+157	Pink Floyd
+158	יוני בלוך
+159	Planet Funk
+160	The Cranberries
+161	Scissor Sisters
+162	דניאל סלומון
+163	אביתר בנאי
+164	Mew
+165	Stereophonics
+166	Garbage
+167	Placebo
+168	Infected Mushroom
+169	Delerium
+170	Scorpions
+171	Rock Star Supernova
+172	Dolores O'Riordan
+173	Tommy Lee
+174	Roxette
+175	Paradise Lost
+176	Keane
+177	Jamiroquai
+178	James Blunt
+179	Reamonn
+180	Blackfield
+181	a-ha
+182	Opeth
+183	Poets of the Fall
+184	Muse
+185	OneRepublic
+186	Elton John
+187	Tears for Fears
+188	The Tiger Lillies
+189	Bright Eyes
+190	Beirut
+191	Tom Waits
+192	System of a Down
+193	Arcade Fire
+194	Gogol Bordello
+195	Ленинград
+196	CAKE
+197	Blur
+198	Damien Rice
+199	Andrew Bird
+200	Beck
+201	Arctic Monkeys
+202	Babyshambles
+203	My Chemical Romance
+204	Bloc Party
+205	The Decemberists
+206	Bob Dylan
+207	Jacques Brel
+208	DeVotchKa
+209	Jeff Buckley
+210	Sparklehorse
+211	Death Cab for Cutie
+212	Man Man
+213	M. Ward
+214	Red Hot Chili Peppers
+215	Travis
+216	Modest Mouse
+217	Band of Horses
+218	Yeong-wook Jo
+219	Interpol
+220	Queens of the Stone Age
+221	The Beatles
+222	Kings of Leon
+223	The Killers
+224	Green Day
+225	Devendra Banhart
+226	Sunset Rubdown
+227	Nine Inch Nails
+228	Nirvana
+229	Eels
+230	Clap Your Hands Say Yeah
+231	Thom Yorke
+232	Massive Attack
+233	Keyshia Cole
+234	Racionais MC's
+235	Toni Braxton
+236	Elo da Corrente
+237	Teta Lando
+238	Flagelo Urbano
+239	Bob Marley & The Wailers
+240	Adriana Calcanhotto
+241	Maxwell
+242	Pharoahe Monch
+243	Common
+244	Bob Marley
+245	Whitney Houston
+246	Tamia
+247	Bryan Adams
+248	Lokua Kanza
+249	Nach
+250	Kid Abelha
+251	Mariah Carey
+252	Tina Turner
+253	9th Wonder
+254	Floetry
+255	Marisa Monte
+256	Mary J. Blige
+257	Jill Scott
+258	Sara Tavares
+259	Céline Dion
+260	Erykah Badu
+261	Nas
+262	Richard Marx
+263	Dru Hill
+264	Maria Bethânia
+265	Mos Def
+266	Faith Evans
+267	Avant
+268	Bob da Rage Sense
+269	Angie Stone
+270	Gang Starr
+271	Papa Wemba
+272	2Pac
+273	Brandy
+274	Sam the Kid
+275	Dealema
+276	Boss AC
+277	Ana Carolina
+278	Dilated Peoples
+279	Janet Jackson
+280	Peter Tosh
+281	Monica
+282	Rihanna
+283	Britney Spears
+284	Jordin Sparks
+285	Kelly Clarkson
+286	Christina Aguilera
+287	Ashlee Simpson
+288	Leona Lewis
+289	Beyoncé
+290	Sugababes
+291	David Cook
+292	Lily Allen
+293	Jennifer Lopez
+294	Katy Perry
+295	Alicia Keys
+296	P!nk
+297	Panic at the Disco
+298	David Archuleta
+299	Katharine McPhee
+300	Black Eyed Peas
+301	Kate Voegele
+302	Kat DeLuna
+303	Danity Kane
+304	Nelly Furtado
+305	Natasha Bedingfield
+306	Cassie
+307	Allison Iraheta
+308	Ciara
+309	Matt Pokora
+310	Alanis Morissette
+311	Keri Hilson
+312	Hilary Duff
+313	Haley James Scott
+314	Fergie
+315	Jonas Brothers
+316	Ashanti
+317	The Saturdays
+318	Cobra Starship
+319	Ashley Tisdale
+320	JoJo
+321	Chris Brown
+322	David Guetta
+323	Justin Timberlake
+324	T.I.
+325	Kanye West
+326	Kelly Rowland
+327	Avril Lavigne
+328	No Angels
+329	Sandy
+330	Vanessa Petruo
+331	Alexander
+332	Queensberry
+333	Fady Maalouf
+334	Cher
+335	Barbara Schöneberger
+336	Colbie Caillat
+337	Annett Louisan
+338	Taylor Swift
+339	Nadja Benaissa
+340	Lena
+341	Cassandra Steen
+342	Wir sind Helden
+343	The Pussycat Dolls
+344	Monrose
+345	Gabrielle
+346	Cheryl Cole
+347	Milow
+348	Sarah Connor
+349	Jason Mraz
+350	Brad Paisley
+351	Silbermond
+352	Diyana
+353	Maria Mena
+354	Shania Twain
+355	Jennifer Chung
+356	A Fine Frenzy
+357	Lucylicious
+358	Sugarland
+359	Christina Stürmer
+360	Jack Johnson
+361	BIG BANG
+362	김종국
+363	2PM
+364	Katatonia
+365	Skillet
+366	モンゴル800
+367	Jay Park
+368	宇多田ヒカル
+369	浜崎あゆみ
+370	UVERworld
+371	Linkin Park
+372	Evanescence
+373	中島美嘉
+374	Blackmore's Night
+375	C.N.BLUE
+376	BUCK-TICK
+377	Bad Religion
+378	Fairuz
+379	T.M.Revolution
+380	Cascada
+381	TRAX
+382	B2ST
+383	Enya
+384	GACKT
+385	Sinamore
+386	Remi Bandali
+387	Super Junior
+388	山下智久
+389	NEWS
+390	L'Arc~en~Ciel
+391	雅-MIYAVI-
+392	www.DjFahad.com
+393	嵐
+394	2NE1
+395	RENTRER EN SOI
+396	3mmey
+397	The All-American Rejects
+398	백지영
+399	The Rasmus
+400	HYDE
+401	Akira Yamaoka
+402	Crossfade
+403	G-Dragon
+404	GD&TOP
+405	Chinese mix
+406	blink-182
+407	After School
+408	Wasted Land
+409	Laith Al-Deen
+410	The National
+411	Cordel do Fogo Encantado
+412	Sigur Rós
+413	Tokyo Police Club
+414	The Kills
+415	Móveis Coloniais de Acaju
+416	Mombojó
+417	Bat for Lashes
+418	The Strokes
+419	Yeah Yeah Yeahs
+420	Rilo Kiley
+421	The Cribs
+422	The Libertines
+423	The Smiths
+424	Kate Nash
+425	Wolf Parade
+426	Klaxons
+427	Broken Social Scene
+428	Spoon
+429	Black Lips
+430	The Smashing Pumpkins
+431	She & Him
+432	O Teatro Mágico
+433	Los Hermanos
+434	Animal Collective
+435	Joy Division
+436	The Tallest Man on Earth
+437	The Rakes
+438	múm
+439	Bon Iver
+440	Ra Ra Riot
+441	Manu Chao
+442	Art Brut
+443	Poney Express
+444	She Wants Revenge
+445	Local Natives
+446	Mundo Livre S/A
+447	Silverchair
+448	Jónsi
+449	Backstreet Boys
+450	Jesse McCartney
+451	Aaron Carter
+452	Justin Bieber
+453	*NSYNC
+454	Noize MC
+455	Miley Cyrus
+456	Blue
+457	Savage Garden
+458	3OH!3
+459	Jessica Simpson
+460	Ke$ha
+461	Darren Hayes
+462	Usher
+463	Nick Carter
+464	nevershoutnever!
+465	Metro Station
+466	3 Doors Down
+467	Dream Street
+468	Craig David
+469	Eminem
+470	M. Pokora
+471	Daniel Merriweather
+472	ВИА Гра
+473	Westlife
+474	Guf
+475	Simple Plan
+476	Jeremih
+477	Centr
+478	Ne-Yo
+479	Kelis
+480	30 Seconds to Mars
+481	The Birthday Massacre
+482	Three Days Grace
+483	Limp Bizkit
+484	Seether
+485	Fort Minor
+486	Funeral for a Friend
+487	Lostprophets
+488	Finch
+489	This Beautiful Republic
+490	Cold
+491	Papa Roach
+492	Paramore
+493	Flyleaf
+494	Bullet for My Valentine
+495	Angels & Airwaves
+496	LaFee
+497	In Flames
+498	HIM
+499	Digital Summer
+500	Anathema
+501	Saosin
+502	Tracktor Bowling
+503	Pitchshifter
+504	P.O.D.
+505	U2
+506	Deftones
+507	Traff!c
+508	Ill Niño
+509	Clan of Xymox
+510	Celldweller
+511	Korn
+512	Within Temptation
+513	Static-X
+514	Fluke
+515	happysad
+516	Lacrimosa
+517	Lindsay Lohan
+518	Jeffree Star
+519	Gwen Stefani
+520	La Roux
+521	Lil' Wayne
+522	Pixie Lott
+523	Paul van Dyk
+524	Alphabeat
+525	Taio Cruz
+526	Little Boots
+527	Oasis
+528	No Doubt
+529	Sophie Ellis-Bextor
+530	Good Charlotte
+531	The Used
+532	Maroon 5
+533	Gossip
+534	Fall Out Boy
+535	Space Cowboy
+536	Pitty
+537	Nicole Scherzinger
+538	Adam Lambert
+539	Flo Rida
+540	The Ting Tings
+541	Kid Cudi
+542	Ellie Goulding
+543	The Sonics
+544	The Fleshtones
+545	The Satelliters
+546	The Barracudas
+547	The Staggers
+548	The Kinks
+549	The Swingin' Neckbreakers
+550	The Strollers
+551	The Fuzztones
+552	The Maharajas
+553	Southern Culture on the Skids
+554	The Woggles
+555	The Untamed Youth
+556	The Who
+557	Small Faces
+558	Mahalia Jackson
+559	Howlin' Wolf
+560	Jackie Wilson
+561	Sam Cooke
+562	The Vice Barons
+563	Otis Redding
+564	Little Richard
+565	LaVern Baker
+566	Ray Charles
+567	The Detroit Cobras
+568	Big Mama Thornton
+569	Aretha Franklin
+570	Marvin Gaye
+571	Ruth Brown
+572	James Brown
+573	Big Maybelle
+574	Muddy Waters
+575	Elmore James
+576	Sonny Boy Williamson
+577	John Lee Hooker
+578	The Isley Brothers
+579	Chuck Berry
+580	Professor Longhair
+581	Sister Rosetta Tharpe
+582	Big Joe Turner
+583	Andre Williams
+584	Louis Prima
+585	Charles Aznavour
+586	Ennio Morricone
+587	Renato Carosone
+588	The Pretty Things
+589	The Titty Twisters Orchestra
+590	The Montesas
+591	The Easybeats
+592	The Gruesomes
+593	David Bowie
+594	le bowl
+595	Prince
+596	Iron & Wine
+597	Aphex Twin
+598	Kings of Convenience
+599	Beastie Boys
+600	José González
+601	Jethro Tull
+602	Tortoise
+603	Nick Drake
+604	Miles Davis
+605	The Sea and Cake
+606	Talking Heads
+607	John Coltrane
+608	Pearl Jam
+609	Elliott Smith
+610	Squarepusher
+611	The Roots
+612	Belle and Sebastian
+613	A Tribe Called Quest
+614	Pulp
+615	The Album Leaf
+616	Sufjan Stevens
+617	Clogs
+618	Great Lake Swimmers
+619	Thelonious Monk
+620	A.A. Bondy
+621	Saint Etienne
+622	Andrew York
+623	of Montreal
+624	Neil Young
+625	Einstürzende Neubauten
+626	Explosions in the Sky
+627	Ornette Coleman
+628	Μιχάλης Χατζηγιάννης
+629	Teen Angels
+630	Ivi Adamou
+631	Helena Paparizou
+632	Kalomoira
+633	Milan Stanković
+634	Άννα Βισση
+635	Laura Pausini
+636	Banghra
+637	Nikolas Metaxas
+638	Inna
+639	Stavento
+640	RBD
+641	Eleftheria Eleftheriou
+642	Antonis Remos
+643	D'Nash
+644	Giorgos Papadopoulos
+645	Funky G
+646	Hadise
+647	Watch Tower Bible and Tract Society of PA
+648	Onirama
+649	Jessy Matador
+650	Master Tempo
+651	Paolo Meneguzzi
+652	Floricienta
+653	Erreway
+654	Dima Bilan
+655	Stromae
+656	Tamta
+657	Sakis Rouvas
+658	Karolina
+659	Giannis Ploutarxos
+660	Chanée & N'evergreen
+661	Evridiki
+662	Mando
+663	Eric Saade
+664	Safura
+665	Alkistis Protopsalti
+666	Denise Rosenthal
+667	Christos Dantis
+668	Darin
+669	Despoina Olympiou
+670	Yohanna
+671	Kostas Martakis
+672	Soulthrow
+673	Glee Cast
+674	The Veronicas
+675	Demi Lovato
+676	Lights
+677	John Mayer
+678	American Idiot Cast
+679	Nick Jonas & The Administration
+680	Selena Gomez & the Scene
+681	All Time Low
+682	Honor Society
+683	Florence + the Machine
+684	Marina & the Diamonds
+685	Owl City
+686	Mitchel Musso
+687	Hey Monday
+688	Darren Criss
+689	Push Play
+690	The Pierces
+691	Sia
+692	Duncan Sheik & Steven Sater
+693	Esmée Denters
+694	Boyce Avenue
+695	Shakira
+696	Ester Dean
+697	The xx
+698	The Pretty Reckless
+699	Engenheiros do Hawaii
+700	AC/DC
+701	Metallica
+702	Capital Inicial
+703	The White Stripes
+704	Black Label Society
+705	Mark Knopfler
+706	Dire Straits
+707	Gotthard
+708	Legião Urbana
+709	R.E.M.
+710	Kaiser Chiefs
+711	Electric Light Orchestra
+712	Johnny Cash
+713	Orishas
+714	Social Distortion
+715	Wim Mertens
+716	ATB
+717	Buena Vista Social Club
+718	Ozzy Osbourne
+719	Titãs
+720	Apocalyptica
+721	Era
+722	Eric Clapton
+723	Sacred Spirit
+724	Eagles
+725	1200 Micrograms
+726	Alice Cooper
+727	John Lennon
+728	Bruce Springsteen
+729	The Rolling Stones
+730	Eliades Ochoa
+731	Trans-Siberian Orchestra
+732	DJ Tiësto
+733	Lulu Santos
+734	Nadja
+735	Autechre
+736	Aidan Baker & thisquietarmy
+737	Salem
+738	Carbon Based Lifeforms
+739	Boards of Canada
+740	Casino Versus Japan
+741	Bill Withers
+742	Jesu
+743	Boris
+744	Secede
+745	Maximum the Hormone
+746	65daysofstatic
+747	Arovane
+748	Crystal Castles
+749	Психея
+750	#####
+751	LAKE R▲DIO
+752	Asian Dub Foundation
+753	the Chemodan
+754	Mono
+755	16 Horsepower
+756	Multiplex
+757	Ben Frost
+758	Gridlock
+759	Enter Shikari
+760	Isis
+761	HORSE the band
+762	Lazzich
+763	Proem
+764	electronicmicroanimal
+765	Mooncake
+766	Gastón Arévalo
+767	sokpb avabodha
+768	The Crystal Method
+769	Ochre
+770	Bring Me The Horizon
+771	Gimmik
+772	Fail Emotions
+773	Solar Fields
+774	Digitonal
+775	Jackson and His Computer Band
+776	Fear Factory
+777	Mandy Moore
+778	Paulina Rubio
+779	Fey
+780	Dannii Minogue
+781	Belinda
+782	Marie Serneholt
+783	Thalía
+784	Hannah Montana
+785	A*Teens
+786	Gloria Trevi
+787	Anna Carina
+788	Emily Osment
+789	Geri Halliwell
+790	Junior Caldera feat Sophie Ellis Bextor
+791	Atomic Kitten
+792	5ive
+793	Anahí
+794	Five
+795	Darkest Hour
+796	Parkway Drive
+797	Soilwork
+798	Crematory
+799	Rise Against
+800	The Black Dahlia Murder
+801	All That Remains
+802	Sonic Syndicate
+803	Dark Tranquillity
+804	As I Lay Dying
+805	Caliban
+806	Killswitch Engage
+807	A Day to Remember
+808	Corpus Christi
+809	36 Crazyfists
+810	Avatar
+811	At the Gates
+812	Amon Amarth
+813	Evading Downfall
+814	August Burns Red
+815	Ensiferum
+816	Whitechapel
+817	Divine Heresy
+818	Ignite
+819	From a Second Story Window
+820	It Prevails
+821	Atreyu
+822	Emmure
+823	I Killed the Prom Queen
+824	Suffokate
+825	Five Finger Death Punch
+826	Scar Symmetry
+827	Butterfly Coma
+828	Eluveitie
+829	Debeli Precjednik
+830	All Shall Perish
+831	Millencolin
+832	Slayer
+833	Despised Icon
+834	Pantera
+835	Pain Confessor
+836	The Dillinger Escape Plan
+837	Lamb of God
+838	The Mercury Arc
+839	Ego Fall
+840	Feed Her To The Sharks
+841	Haste the Day
+842	Manic Street Preachers
+843	The Stranglers
+844	Therapy?
+845	Alice in Chains
+846	Jane's Addiction
+847	Soundgarden
+848	The Clash
+849	PJ Harvey
+850	Pixies
+851	Stone Temple Pilots
+852	Killing Joke
+853	Primal Scream
+854	The Velvet Underground
+855	Ministry
+856	Republika
+857	Virgin Prunes
+858	Nick Cave and the Bad Seeds
+859	The Doors
+860	Afghan Whigs
+861	Skeletal Family
+862	New Model Army
+863	Closterkeller
+864	Porno for Pyros
+865	Roxy Music
+866	Bauhaus
+867	Revolting Cocks
+868	Alphaville
+869	Wolfsheim
+870	Can
+871	Nitzer Ebb
+872	Kyuss
+873	The Jesus Lizard
+874	Tiamat
+875	Brygada Kryzys
+876	Tracy Chapman
+877	Dragonette
+878	New Young Pony Club
+879	Siobhan Donaghy
+880	Cyndi Lauper
+881	Kelly Osbourne
+882	Jewel
+883	Dixie Chicks
+884	Kate Miller-Heidke
+885	Sneaky Sound System
+886	Chew Lips
+887	Noisettes
+888	Shakespear's Sister
+889	Tegan and Sara
+890	Missy Higgins
+891	Annie Lennox
+892	VV Brown
+893	The Cast Of Buffy The Vampire Slayer
+894	Amy Winehouse
+895	Rogue Traders
+896	Crowded House
+897	Girls Aloud
+898	Timbaland
+899	Vanessa Hudgens
+900	Delta Goodrem
+901	John Williams
+902	Rachel Stevens
+903	Carter Burwell
+904	Destiny's Child
+905	Medina
+906	Alexandra Burke
+907	Vanessa S.
+908	Iron Maiden
+909	Megadeth
+910	Savatage
+911	Dream Theater
+912	Circle II Circle
+913	Bruce Dickinson
+914	Children of Bodom
+915	Angra
+916	Andre Matos
+917	Shaaman
+918	Hangar
+919	Helloween
+920	Viper
+921	Nightwish
+922	Dr. Sin
+923	Matanza
+924	Wizards
+925	Angel Dust
+926	Bittencourt Project
+927	Kamelot
+928	Stratovarius
+929	Hibria
+930	Mindflow
+931	Rage
+932	Tribuzy
+933	Iced Earth
+934	Nevermore
+935	Symphony X
+936	Journey
+937	Avantasia
+938	Testament
+939	Burning in Hell
+940	Death
+941	Kiko Loureiro
+942	Bon Jovi
+943	Skid Row
+944	Arch Enemy
+945	Kreator
+946	Epica
+947	Yngwie Malmsteen
+948	Blind Guardian
+949	Kotipelto
+950	Queen
+951	Outworld
+952	Tori Amos
+953	The Cardigans
+954	Yanni
+955	The Mars Volta
+956	Bush
+957	Nickelback
+958	Sixpence None the Richer
+959	Armin van Buuren
+960	Kasabian
+961	Infernal
+962	Zoé
+963	t.A.T.u.
+964	Hevia
+965	Amy Studt
+966	Santana
+967	Agressiva 69
+968	At the Drive-In
+969	Disturbed
+970	Smash Mouth
+971	Yelle
+972	Emilíana Torrini
+973	Foo Fighters
+974	Rodrigo y Gabriela
+975	Tilly and the Wall
+976	Blondie
+977	Frank Sinatra
+978	Earth, Wind & Fire
+979	Fallulah
+980	The Donnas
+981	Iron Butterfly
+982	Jem
+983	Chris Rea
+984	Simple Minds
+985	Howard Jones
+986	China Crisis
+987	Mike & The Mechanics
+988	The Human League
+989	Orchestral Manoeuvres in the Dark
+990	Thompson Twins
+991	Information Society
+992	Pet Shop Boys
+993	Rick Astley
+994	Johnny Hates Jazz
+995	Kim Wilde
+996	Robert Palmer
+997	The Fixx
+998	Solar Stone
+999	Level 42
+1000	Tiësto
+1001	19
+1002	Artista desconhecido
+1003	Kyau vs. Albert
+1004	Ultravox
+1005	Erasure
+1006	Berlin
+1007	Novaspace
+1008	The Psychedelic Furs
+1009	Midge Ure
+1010	Yazoo
+1011	OceanLab
+1012	Groove Coverage
+1013	Dance Nation
+1014	Fragma
+1015	Ian Van Dahl
+1016	DJ Sammy
+1017	Sylver
+1018	Heaven 17
+1019	Anything Box
+1020	Markus Schulz
+1021	Topmodelz
+1022	Exposé
+1023	Jessie J
+1024	Runner Runner
+1025	Kerli
+1026	Breathe Carolina
+1027	Anarbor
+1028	Nicki Minaj
+1029	The Maine
+1030	Teen Hearts
+1031	Forever the Sickest Kids
+1032	Gloria
+1033	Bruno Mars
+1034	Boys Like Girls
+1035	Slipknot
+1036	Fresno
+1037	New Found Glory
+1038	McFly
+1039	The Kooks
+1040	Nevada Tan
+1041	Mamma Mia!
+1042	Alesha Dixon
+1043	Pink
+1044	Edyta Bartosiewicz
+1045	Camp Rock
+1046	Myslovitz
+1047	Jamal
+1048	Ewa Farna
+1049	Łzy
+1050	Alexz Johnson
+1051	Bonanza Banzai
+1052	Recoil
+1053	Ladytron
+1054	Fake
+1055	Hubert Kah
+1056	Sally Shapiro
+1057	Ayria
+1058	Red Flag
+1059	Cook Da Books
+1060	The Frozen Autumn
+1061	Johan Agebjörn
+1062	Alan Silvestri
+1063	Martin L. Gore
+1064	Kraftwerk
+1065	Cause & Effect
+1066	IAMX
+1067	Wham!
+1068	Klein & Mbo
+1069	Alan Wilder
+1070	Billy Idol
+1071	Dark Phenomenon
+1072	Ace of Base
+1073	TIA
+1074	Siouxsie and the Banshees
+1075	Provision
+1076	Curve
+1077	Static Movement
+1078	Alisha
+1079	B.W.H.
+1080	Suede
+1081	Franz Ferdinand
+1082	AFI
+1083	Joaquín Sabina
+1084	Kaizers Orchestra
+1085	Kent
+1086	Damon Albarn
+1087	Bayside
+1088	Patrick Wolf
+1089	Björk
+1090	The Prodigy
+1091	Chiodos
+1092	These New Puritans
+1093	William Control
+1094	Iggy Pop
+1095	Rammstein
+1096	Jack's Mannequin
+1097	Phoenix
+1098	The Good, the Bad & the Queen
+1099	Nicky Wire
+1100	Yann Tiersen
+1101	Rush
+1102	Tenhi
+1103	Frédéric Chopin
+1104	Ayreon
+1105	Tarja
+1106	Balayeurs du désert
+1107	Incubus
+1108	Claude Debussy
+1109	A Perfect Circle
+1110	Faith No More
+1111	György Ligeti
+1112	Wolfgang Amadeus Mozart
+1113	The Police
+1114	Johann Sebastian Bach
+1115	Carl Orff
+1116	Los Jaivas
+1117	Noir Désir
+1118	The Asteroids Galaxy Tour
+1119	John Petrucci & Jordan Rudess
+1120	Villa cariño
+1121	Ludwig van Beethoven
+1122	Tool
+1123	Joe Satriani
+1124	The String Quartet
+1125	Agalloch
+1126	Camille
+1127	Amadou & Mariam
+1128	Kuervos del Sur
+1129	Igor Stravinsky
+1130	Maurice Ravel
+1131	Neal Morse
+1132	Aina Sandoval
+1133	Die Antwoord
+1134	Empyrium
+1135	Josquin des Prez
+1136	Stone Sour
+1137	菅野よう子
+1138	Murray Gold
+1139	平沢進
+1140	Pete and The Pirates
+1141	Leonard Cohen
+1142	Editors
+1143	Fire Bomber
+1144	Đorđe Balašević
+1145	The Pillows
+1146	Hot Chip
+1147	Orbital
+1148	坂本真綾
+1149	Lewis Black
+1150	Architecture in Helsinki
+1151	Roy Orbison
+1152	Pizzicato Five
+1153	Flight of the Conchords
+1154	Los Campesinos!
+1155	The Magnetic Fields
+1156	Luky
+1157	Shimon Masato
+1158	Antony and the Johnsons
+1159	Mychael Danna/DeVotchKa
+1160	Kayo Dot
+1161	Rishloo
+1162	The Blood Brothers
+1163	Jordan Rudess
+1164	Quidam
+1165	Juniper
+1166	Georg Friedrich Händel
+1167	The Sound of Animals Fighting
+1168	Diablo Swing Orchestra
+1169	Lunatic Soul
+1170	Billy Talent
+1171	Escape The Fate
+1172	Silverstein
+1173	The Red Jumpsuit Apparatus
+1174	You Me At Six
+1175	The Blackout
+1176	Alesana
+1177	Sum 41
+1178	Dance Gavin Dance
+1179	Asking Alexandria
+1180	Secondhand Serenade
+1181	We Are The Ocean
+1182	Hadouken!
+1183	Four Year Strong
+1184	Mayday Parade
+1185	Hawthorne Heights
+1186	Alexisonfire
+1187	Suicide Silence
+1188	Senses Fail
+1189	We The Kings
+1190	Destine
+1191	Story of the Year
+1192	Cute Is What We Aim For
+1193	Melvins
+1194	Skinny Puppy
+1195	Agoraphobic Nosebleed
+1196	Death in June
+1197	Misfits
+1198	The Skatalites
+1199	Reverend Horton Heat
+1200	The Conet Project
+1201	Saul Williams
+1202	Lärm
+1203	Manorexia
+1204	Lush
+1205	Nile
+1206	Mirrorthrone
+1207	Mastodon
+1208	Shadow Project
+1209	Chris Vrenna
+1210	Ravi Shankar
+1211	Patsy Cline
+1212	Naked City
+1213	Venetian Snares
+1214	Eyehategod
+1215	Bob Wills and his Texas Playboys
+1216	Dean Martin
+1217	Shpongle
+1218	Dick Dale
+1219	La Quiete
+1220	Sunn O)))
+1221	Parliament
+1222	The Dresden Dolls
+1223	Jelly Roll Morton
+1224	The Tear Garden
+1225	Sutcliffe Jügend
+1226	Birth Control
+1227	Zomby
+1228	CunninLynguists
+1229	Tinariwen
+1230	Weezer
+1231	Them Crooked Vultures
+1232	Skank
+1233	The Beach Boys
+1234	Mika
+1235	Elvis Presley
+1236	Hayley Williams
+1237	Panic! At the Disco
+1238	The Calling
+1239	The Darkness
+1240	Guns N' Roses
+1241	Alpha Quadrant
+1242	Dark Fortress
+1243	Cryo
+1244	Front Line Assembly
+1245	Mayhem
+1246	X-Dream
+1247	Haujobb
+1248	Overkill
+1249	Bolt Thrower
+1250	Satyricon
+1251	Marduk
+1252	Sodom
+1253	Secrets of the Moon
+1254	Tristania
+1255	Carcass
+1256	Headscan
+1257	Unanimated
+1258	Nocte Obducta
+1259	Love Like Blood
+1260	FREq
+1261	Tactical Sekt
+1262	Novembers Doom
+1263	Electric Universe
+1264	Vinterland
+1265	Sepultura
+1266	Samael
+1267	Immortal
+1268	Velvet Acid Christ
+1269	yelworC
+1270	X-Marks the Pedwalk
+1271	Orange Sector
+1272	Cannibal Corpse
+1273	Forma Tadre
+1274	Blue Planet Corporation
+1275	Necrophobic
+1276	Talamasca
+1277	Devourment
+1278	Unlord
+1279	Atmos
+1280	Helrunar
+1281	Messiah
+1282	Withershin
+1283	mind.in.a.box
+1284	Absurd Minds
+1285	Rotersand
+1286	VNV Nation
+1287	Seabound
+1288	Colony 5
+1289	Apoptygma Berzerk
+1290	Suicide Commando
+1291	Blutengel
+1292	Neuroticfish
+1293	Culture Kultür
+1294	Assemblage 23
+1295	Edge of Dawn
+1296	Cosmic Gate
+1297	Above & Beyond
+1298	Cesium:137
+1299	Ronski Speed
+1300	Stoneface & Terminal
+1301	Noisecontrollers
+1302	Donkey Rollers
+1303	Pride and Fall
+1304	E-Craft
+1305	Solitary Experiments
+1306	Wynardtage
+1307	Blutonium Boy
+1308	P24
+1309	Sander van Doorn
+1310	Brooklyn Bounce
+1311	Code 64
+1312	Lights of Euphoria
+1313	Echo Image
+1314	Sero.Overdose
+1315	A7ie
+1316	Spektralized
+1317	Negative Format
+1318	Noycetm
+1319	Angels & Agony
+1320	Lost Signal
+1321	4 Strings
+1322	Accessory
+1323	XP8
+1324	Les Anges De La Nuit
+1325	Glis
+1326	Bruderschaft
+1327	Syrian
+1328	Nuclear Assault
+1329	HammerFall
+1330	Sonata Arctica
+1331	Iron Fire
+1332	Flotsam and Jetsam
+1333	Gamma Ray
+1334	Queensrÿche
+1335	Annihilator
+1336	Armored Saint
+1337	Grave Digger
+1338	Sabaton
+1339	Alestorm
+1340	Rhapsody of Fire
+1341	Edguy
+1342	Tenacious D
+1343	Death Angel
+1344	Running Wild
+1345	Mantic Ritual
+1346	Jag Panzer
+1347	Heathen
+1348	Sacred Reich
+1349	Judas Priest
+1350	Tarot
+1351	Motörhead
+1352	Bloodbound
+1353	Mekong Delta
+1354	Power Quest
+1355	Exodus
+1356	Vicious Rumors
+1357	W.A.S.P.
+1358	Steel Attack
+1359	Primal Fear
+1360	Black Sabbath
+1361	Early Man
+1362	Wolf
+1363	Deep Purple
+1364	Agent Steel
+1365	Demons & Wizards
+1366	Snow Patrol
+1367	White Lies
+1368	The Fray
+1369	Jimmy Eat World
+1370	Hurts
+1371	Blue October
+1372	Starsailor
+1373	David Gray
+1374	Imogen Heap
+1375	The Verve
+1376	Thirteen Senses
+1377	Matthew Ryan
+1378	The Little Heroes
+1379	Gary Jules
+1380	Eisley
+1381	Vampire Weekend
+1382	Negativ
+1383	Lady Sovereign
+1384	Alenka Gotar
+1385	The Chemical Brothers
+1386	Freemasons
+1387	Digitalism
+1388	Fatboy Slim
+1389	Justice
+1390	Armand van Helden
+1391	MGMT
+1392	deadmau5
+1393	Ludacris
+1394	Martin Solveig
+1395	Lone
+1396	Simian Mobile Disco
+1397	The Offspring
+1398	Michael Gray
+1399	MSTRKRFT
+1400	Calvin Harris
+1401	Pendulum
+1402	King Crimson
+1403	Led Zeppelin
+1404	Genesis
+1405	Paul McCartney
+1406	Creedence Clearwater Revival
+1407	George Harrison
+1408	Týr
+1409	Mogwai
+1410	Spirit
+1411	Terry Reid
+1412	Roberto Carlos
+1413	Grateful Dead
+1414	A Silver Mt. Zion
+1415	Cat Power
+1416	David Gilmour
+1417	The Jimi Hendrix Experience
+1418	Stevie Wonder
+1419	Dulce María
+1420	Christian Chávez
+1421	Christopher Von Uckermann
+1422	Paty Cantú
+1423	Tiziano Ferro
+1424	Daddy Yankee
+1425	Kazaky
+1426	La Nueva Banda Timbiriche
+1427	Luis Fonsi
+1428	Chino & Nacho
+1429	Camila
+1430	Alexis & Fido
+1431	David Bisbal
+1432	Eva Simons
+1433	Gaby sanchez
+1434	Wisin & Yandel
+1435	Akon
+1436	Artists For Haiti
+1437	Fanny Lú
+1438	Lady Antebellum
+1439	Ivy Queen
+1440	Pitbull
+1441	Kristinia DeBarge
+1442	Girlicious
+1443	Willow Smith
+1444	Selena Gomez
+1445	Jullie
+1446	B.o.B
+1447	Far East Movement
+1448	Cherish
+1449	Miranda Cosgrove
+1450	Carrie Underwood
+1451	Rednex
+1452	Big Time Rush
+1453	Gloriana
+1454	Amy Macdonald
+1455	ABBA
+1456	Agnetha Fältskog
+1457	Jared Padalecki
+1458	Jensen Ackles
+1459	Kansas
+1460	The Mamas & The Papas
+1461	Lifehouse
+1462	Mamma Mia! Brasil
+1463	Madonna feat. Gogol Bordello
+1464	swedem
+1465	Mamma Mia! Film Cast
+1466	Ricky Martin
+1467	Based On Abba
+1468	Per Gessle; Roxette
+1469	B.J. Thomas
+1470	Kim Carnes
+1471	Anni-Frid Lyngstad
+1472	Matt & Kim
+1473	Pataclaun
+1474	Riko
+1475	cnet.com
+1476	Miike Snow
+1477	Santigold
+1478	Eileen
+1479	Time Machine
+1480	Reba McEntire
+1481	Rockstar Games ©
+1482	Antonio Vivaldi
+1483	The Virgins
+1484	Chespirito
+1485	Rocío Dúrcal
+1486	2009 Names in Vain
+1487	Amsterdam Guitar Trio
+1488	Just Jack
+1489	Los Fantasmas del Caribe
+1490	Frankie Ruiz
+1491	Tito El Bambino
+1492	Caifanes
+1493	Rooney
+1494	Nadia Oh
+1495	Sonic Youth
+1496	Natalie Imbruglia
+1497	Valeria
+1498	Omarion
+1499	Starlight Mints
+1500	Noel Gallagher
+1501	Black Rebel Motorcycle Club
+1502	Paolo Nutini
+1503	The Last Shadow Puppets
+1504	Ramones
+1505	The Courteeners
+1506	The Fratellis
+1507	The Enemy
+1508	The Wombats
+1509	Mumford & Sons
+1510	Ryan Adams
+1511	The Hives
+1512	Morbid Angel
+1513	Destruction
+1514	Tankard
+1515	Hirax
+1516	Artillery
+1517	Toxic Holocaust
+1518	Anthrax
+1519	Municipal Waste
+1520	Forbidden
+1521	Vio-Lence
+1522	Venom
+1523	Lich King
+1524	Napalm Death
+1525	The Sisters of Mercy
+1526	Mercyful Fate
+1527	Exumer
+1528	EMICIDA
+1529	Mortal Treason
+1530	Chainsaw Disaster
+1531	Bleeding Through
+1532	The Devil Wears Prada
+1533	Knights Of The Abyss
+1534	Immortal Technique
+1535	J. Holiday
+1536	Raimundos
+1537	boysetsfire
+1538	Hatebreed
+1539	wecamewithbrokenteeth
+1540	Waking The Cadaver
+1541	Impending Doom
+1542	As Blood Runs Black
+1543	For Today
+1544	CéU
+1545	ABACABB
+1546	Job for a Cowboy
+1547	Joss Stone
+1548	Carnifex
+1549	Provérbio X
+1550	The Irish Front
+1551	Facção Central
+1552	Beneath the Massacre
+1553	akissforjersey
+1554	Annotations of an Autopsy
+1555	E.Town Concrete
+1556	Brain Drill
+1557	Misericordiam
+1558	Rose Funeral
+1559	See You Next Tuesday
+1560	Straight Line Stitch
+1561	Belay My Last
+1562	Винтаж
+1563	Serebro
+1564	Вера Брежнева
+1565	Жанна Фриске
+1566	Дантес&Олейник
+1567	Dan Balan
+1568	Нюша
+1569	Анна Седокова
+1570	Банд'Эрос
+1571	Paris Hilton
+1572	Татьяна Котова
+1573	Таня
+1574	Баста
+1575	Love Spit Love
+1576	Panik
+1577	Инь-Ян
+1578	Roma Kenga и Агния Дитковските
+1579	Tom Dice
+1580	S Club 7
+1581	Skye Sweetnam
+1582	Holly Valance
+1583	Mis-Teeq
+1584	Samantha Mumba
+1585	Gina Rene, Gabriel Rene, Lindsay Lohan, Rachel McAdams, Lacey Chabert, & Amanda Seyfried
+1586	Eve
+1587	Christina Milian
+1588	The Cheetah Girls
+1589	Allstars
+1590	Gareth Gates
+1591	Madison Avenue
+1592	Anastacia
+1593	Shayne Ward
+1594	Billie Piper
+1595	Jamelia
+1596	Black Milk
+1597	People Under the Stairs
+1598	Constrobuz
+1599	UGK
+1600	Lykke Li
+1601	Jurassic 5
+1602	Zion I
+1603	G-Side
+1604	Jay-Z
+1605	Atmosphere
+1606	Killer Mike
+1607	Elzhi
+1608	Nappy Roots
+1609	Hieroglyphics
+1610	Blackalicious
+1611	OutKast
+1612	Masta Ace
+1613	De La Soul
+1614	Jeru the Damaja
+1615	The Jacka
+1616	Monsta Island Czars
+1617	Living Legends
+1618	J Dilla
+1619	Das EFX
+1620	Organized Konfusion
+1621	Jake One
+1622	Deltron 3030
+1623	Metric
+1624	Fleet Foxes
+1625	Souls of Mischief
+1626	The D.O.C.
+1627	Jedi Mind Tricks
+1628	The Grouch & Eligh
+1629	Pac Div
+1630	Jimi Hendrix
+1631	GZA/Genius
+1632	The Game
+1633	Aliados 13
+1634	Dave Matthews Band
+1635	Brothers of Brazil
+1636	Rancid
+1637	Outono em Marte
+1638	Drapz
+1639	The Baseballs
+1640	Os Dissonantes
+1641	Anti-Flag
+1642	Cascadura
+1643	The Wallflowers
+1644	Supla
+1645	Tequila Baby
+1646	Candlebox
+1647	Motel
+1648	Mecanika!
+1649	Supercombo
+1650	Cine
+1651	Blind Melon
+1652	Borderlinerz
+1653	Nenhum de Nós
+1654	Those Dancing Days
+1655	Poléxia
+1656	Sanalejo
+1657	Udora
+1658	Mike Ness
+1659	Matt White
+1660	Faichecleres
+1661	Black Veil Brides
+1662	Falling In Reverse
+1663	Avenged Sevenfold
+1664	Tokio Hotel
+1665	The Medic Droid
+1666	Get Scared
+1667	from aphony
+1668	Criss Angel
+1669	BrokeNCYDE
+1670	Stephen Jerzak
+1671	The Ready Set
+1672	Charlie Brown Jr.
+1673	Bratz
+1674	Jennette McCurdy
+1675	Aly & AJ
+1676	Everlife
+1677	Weird Al Yankovic
+1678	Liz Phair
+1679	iamamiwhoami
+1680	Bowling for Soup
+1681	Victoria Justice
+1682	Orianthi
+1683	Keke Palmer
+1684	Christy Carlson Romano
+1685	Dolly Parton
+1686	Susan Egan/Vaneese Thomas/Cheryl Freeman/LaChanze/Lillias White
+1687	Billy Ray Cyrus
+1688	Lady GaGa vs. Madonna
+1689	Sterling Knight
+1690	Future Pop Stars United
+1691	Clint Mansell
+1692	Puscifer
+1693	Eicca Toppinen
+1694	The Cult
+1695	Unheilig
+1696	Hans Zimmer
+1697	Black Light Burns
+1698	Dead Can Dance
+1699	Philip Glass
+1700	Brian Eno
+1701	Therion
+1702	Eisbrecher
+1703	Megaherz
+1704	Dave Gahan
+1705	Oomph!
+1706	Lisa Gerrard
+1707	Cliff Martinez
+1708	Peter Broderick
+1709	Ani DiFranco
+1710	Uzi & Ari
+1711	Hauschka
+1712	Jens Lekman
+1713	Olafur Arnalds
+1714	Anathallo
+1715	Flica
+1716	Jon Foreman
+1717	Elio e le Storie Tese
+1718	Jóhann Jóhannsson
+1719	Piano Magic
+1720	Craig Armstrong
+1721	Teitur
+1722	Hammock
+1723	Joanna Newsom
+1724	A Weather
+1725	Damien Jurado
+1726	Seabear
+1727	Balmorhea
+1728	Do Make Say Think
+1729	Soulwax
+1730	Frozen Silence
+1731	Soundtrack
+1732	Bobo Rondelli
+1733	Ryuichi Sakamoto
+1734	Ludovico Einaudi
+1735	Goldmund
+1736	Apparat
+1737	Psapp
+1738	Ólafur Arnalds
+1739	Nancy Elizabeth
+1740	Does It Offend You Yeah?
+1741	Tom Barman
+1742	Mi and L'au
+1743	Ellen Allien
+1744	Whitetree
+1745	Clare & the Reasons
+1746	Chico Buarque
+1747	Ney Matogrosso
+1748	Secos & Molhados
+1749	Chicas
+1750	Oswaldo Montenegro
+1751	Renato Russo
+1752	Marcelo Camelo
+1753	Zbigniew Preisner
+1754	Maria Rita
+1755	Caetano Veloso
+1756	Kevin Johansen
+1757	Little Joy
+1758	Carla Bruni
+1759	Pato Fu
+1760	Felpeyu
+1761	Erik Satie
+1762	Rita Lee
+1763	Norah Jones
+1764	Yoñlu
+1765	David Nevue
+1766	Cássia Eller
+1767	Tiê
+1768	Adam Green
+1769	Eddie Vedder
+1770	Cartola
+1771	Libera
+1772	Emilie Simon
+1773	Jonathan Larson
+1774	Esbjörn Svensson Trio
+1775	Бумбокс
+1776	А-Студио
+1777	Сплин
+1778	UNKLE
+1779	Агата Кристи
+1780	5'nizza
+1781	Archive
+1782	Океан Ельзи
+1783	SunSay
+1784	Schiller
+1785	Inspiral Carpets
+1786	Sting
+1787	Nautilus Pompilius
+1788	Guano Apes
+1789	Umaturman
+1790	Indochine
+1791	Amethystium
+1792	Nightmares on Wax
+1793	The Shadows
+1794	Mötley Crüe
+1795	T. Rex
+1796	Suzi Quatro
+1797	Syd Barrett
+1798	The Runaways
+1799	Ratt
+1800	Stryper
+1801	Def Leppard
+1802	Patti Smith
+1803	Jerry Cantrell
+1804	The Black Crowes
+1805	Sex Pistols
+1806	Extremoduro
+1807	Héroes del Silencio
+1808	L7
+1809	Jazzanova
+1810	Love Unlimited Orchestra
+1811	Donna Summer
+1812	Luther Vandross
+1813	4hero
+1814	MFSB
+1815	Zero 7
+1816	The Jacksons
+1817	Isaac Hayes
+1818	808 State
+1819	Chaka Khan
+1820	Quincy Jones
+1821	Loose Ends
+1822	David Sanborn
+1823	Chic
+1824	Nina Simone
+1825	Diana Ross
+1826	The Cinematic Orchestra
+1827	Art of Noise
+1828	Scott Walker
+1829	Stanton Warriors
+1830	Little Brother
+1831	Trüby Trio
+1832	Musiq
+1833	Blue Six
+1834	Teddy Pendergrass
+1835	Grace Jones
+1836	Roy Ayers
+1837	Rick James
+1838	Minnie Riperton
+1839	Sarah Vaughan
+1840	Shawn Lee's Ping Pong Orchestra
+1841	Teena Marie
+1842	Richard Wagner
+1843	Red
+1844	blessthefall
+1845	Breaking Benjamin
+1846	Pillar
+1847	Makeshift Romeo
+1848	YUI
+1849	Thrice
+1850	Thousand Foot Krutch
+1851	Jay-Z and Linkin Park
+1852	Heaven Shall Burn
+1853	SMS
+1854	Hollywood Undead
+1855	Black Lab
+1856	abingdon boys school
+1857	Yellowcard
+1858	Disciple
+1859	A Skylit Drive
+1860	D2
+1861	Dope
+1862	Shane Dawson
+1863	Flow
+1864	Audioslave
+1865	Hoobastank
+1866	The Frames
+1867	Оригами
+1868	access
+1869	Devo
+1870	Split Enz
+1871	Fashion
+1872	XTC
+1873	Pseudo Echo
+1874	The Cars
+1875	Midnight Oil
+1876	Dead or Alive
+1877	Gary Numan
+1878	Shriekback
+1879	Wire
+1880	Oingo Boingo
+1881	Sparks
+1882	Thomas Dolby
+1883	Eurythmics
+1884	Yellow Magic Orchestra
+1885	Models
+1886	Visage
+1887	Magazine
+1888	John Foxx
+1889	Landscape
+1890	Scritti Politti
+1891	Yello
+1892	They Might Be Giants
+1893	New Musik
+1894	SHINee
+1895	Shinedown
+1896	東方神起
+1897	Mehdi
+1898	増田俊郎
+1899	和田薫
+1900	the GazettE
+1901	See-Saw
+1902	Ария
+1903	The 69 Eyes
+1904	AYABIE
+1905	Charon
+1906	동방신기
+1907	HIGH and MIGHTY COLOR
+1908	平野義久
+1909	audiomachine
+1910	Rie fu
+1911	ギルガメッシュ
+1912	Fool's Garden
+1913	Lovex
+1914	ASIAN KUNG-FU GENERATION
+1915	SUGIZO
+1916	Poisonblack
+1917	Acid Black Cherry
+1918	ムック
+1919	Adele
+1920	Solange
+1921	Jennifer Hudson
+1922	Michelle Williams
+1923	Stand Up to Cancer
+1924	Ana Carolina; Seu Jorge
+1925	Teyana Taylor
+1926	Gnarls Barkley
+1927	Guru Josh Project
+1928	Flying Lotus
+1929	The Mountain Goats
+1930	Daedelus
+1931	Madlib
+1932	Neutral Milk Hotel
+1933	Quasimoto
+1934	Okkervil River
+1935	Madvillain
+1936	Pomegranates
+1937	Raekwon
+1938	Onra
+1939	Yeasayer
+1940	BLK JKS
+1941	Mount Kimbie
+1942	Pavement
+1943	The Flaming Lips
+1944	Blu & Exile
+1945	Lightspeed Champion
+1946	Actress
+1947	King Geedorah
+1948	MF DOOM
+1949	Deerhunter
+1950	Four Tet
+1951	Someone Still Loves You Boris Yeltsin
+1952	Guilty Simpson
+1953	Baaba Maal & Mansour Seck
+1954	Prefuse 73
+1955	The Avalanches
+1956	Laura Marling
+1957	K'naan
+1958	Aloe Blacc
+1959	Rage Against the Machine
+1960	O.S.T.R.
+1961	The Black Keys
+1962	The Raconteurs
+1963	Cool Kids of Death
+1964	Cypress Hill
+1965	Czesław Śpiewa
+1966	Kult
+1967	Muchy
+1968	The Knife
+1969	Pidżama Porno
+1970	Chris Cornell
+1971	Metronomy
+1972	Dick4Dick
+1973	The Subways
+1974	Paktofonika
+1975	Fever Ray
+1976	The Von Bondies
+1977	King Diamond
+1978	Falconer
+1979	Devin Townsend
+1980	Vanden Plas
+1981	Allen/Lande
+1982	Dragonland
+1983	Liquid Tension Experiment
+1984	Stemage
+1985	いきものがかり
+1986	Al Di Meola
+1987	John Petrucci
+1988	Spock's Beard
+1989	Jorn
+1990	Shadow Gallery
+1991	Pain of Salvation
+1992	Random
+1993	Don Ross
+1994	DragonForce
+1995	Russell Allen
+1996	Rampkorv
+1997	key
+1998	Blue Öyster Cult
+1999	Lacuna Coil
+2000	Axenstar
+2001	Transatlantic
+2002	Eureka Seven
+2003	September
+2004	Stacie Orrico
+2005	Leighton Meester
+2006	Victoria Beckham
+2007	Melanie C
+2008	Gloria Estefan
+2009	Emma Bunton
+2010	Simon Curtis
+2011	The Residents
+2012	Frankie Goes to Hollywood
+2013	Пикник
+2014	Madness
+2015	Coil
+2016	Bee Gees
+2017	Die Apokalyptischen Reiter
+2018	Ska-P
+2019	Los Fastidios
+2020	Steve Jablonsky
+2021	The Business
+2022	Tuxedomoon
+2023	In Extremo
+2024	Deutsch Amerikanische Freundschaft
+2025	Luciano Pavarotti
+2026	[:SITD:]
+2027	SPK
+2028	Cabaret Voltaire
+2029	Sarah Brightman
+2030	Immediate Music
+2031	Alessandro Safina
+2032	Andrea Bocelli
+2033	Riccardo Cocciante
+2034	Sarah Brightman & Andrea Bocelli
+2035	Il Divo
+2036	Josh Groban
+2037	Susan Boyle
+2038	Cristian Castro
+2039	Emma Shapplin
+2040	Andrew Lloyd Webber
+2041	Adela Popescu
+2042	Midnight Hour
+2043	marger
+2044	Vanessa-Mae
+2045	Cirque du Soleil
+2046	Petra Berger
+2047	In This Moment
+2048	Anastasia Lazariuc
+2049	Ana Gabriel
+2050	Marco Antonio Solís
+2051	Rhydian
+2052	Lara Fabian
+2053	Yiruma
+2054	Stream of Passion
+2055	Vasco Rossi
+2056	Michael Giacchino
+2057	Keedie
+2058	Giorgia Fumanti
+2059	David Bustamante
+2060	Gregorian
+2061	Katherine Jenkins
+2062	Vega 4
+2063	Daniela Castro
+2064	Sissel
+2065	NX Zero
+2066	Dev
+2067	Marjorie Estiano
+2068	M.I.A.
+2069	DJ Earworm
+2070	The Cataracs
+2071	Perfume
+2072	Aural Vampire
+2073	Alan
+2074	티아라
+2075	UNLIMITS
+2076	4minute
+2077	소녀시대
+2078	Versailles
+2079	BoA
+2080	Aira Mitsuki
+2081	exist†trace
+2082	Brown Eyed Girls
+2083	Kara
+2084	윤하
+2085	D'espairsRay
+2086	Capsule
+2087	倖田來未
+2088	-OZ-
+2089	ルルティア
+2090	Aqua Timez
+2091	U-KISS
+2092	태양
+2093	OreSkaBand
+2094	Asriel
+2095	Kaya
+2096	鬼束ちひろ
+2097	妖精帝國
+2098	heidi.
+2099	아웃사이더
+2100	Saori@destiny
+2101	Kalafina
+2102	시크릿
+2103	immi
+2104	ＭＡＮＮＥＱＵＩＮ
+2105	IU
+2106	OK Go
+2107	Miles Kane
+2108	Alex Turner
+2109	Benjamin Biolay
+2110	Darwin Deez
+2111	Annoying Orange
+2112	The Turtles
+2113	The Rascals
+2114	Royal Republic
+2115	Brandon Flowers
+2116	Dirty Pretty Things
+2117	Dizzee Rascal
+2118	Milburn
+2119	Julian Casablancas
+2120	Chiddy Bang
+2121	Serge Gainsbourg
+2122	Two Door Cinema Club
+2123	Memorial Beach
+2124	Beach House
+2125	The Bottletop Band
+2126	Bill Elm and Woody Jackson
+2127	Sahara Hotnights
+2128	DevilDriver
+2129	Георг Корг
+2130	B. Fleischmann
+2131	AFX
+2132	Total
+2133	2H Company
+2134	Booka Shade
+2135	Fightstar
+2136	Meshuggah
+2137	Electric Birds
+2138	Current Value
+2139	Jane Air
+2140	Psychostick
+2141	Самое Большое Простое Число
+2142	Christian Kleine
+2143	Mujuice
+2144	Дальний Свет
+2145	Maroon
+2146	Wisp
+2147	Alarm Will Sound
+2148	E-SEX-T
+2149	Ovuca
+2150	Enduser
+2151	Architect
+2152	Fink
+2153	American Head Charge
+2154	Dagoba
+2155	Neurocoders
+2156	Integral
+2157	Gojira
+2158	Limewax
+2159	edIT
+2160	Etta James
+2161	Michael Bublé
+2162	Katie Stevens
+2163	Michael Jackson & Britney Spears
+2164	50 Cent
+2165	Marc Seales, composer. New Stories. Ernie Watts, saxophone.
+2166	Aaryn Doyle
+2167	Lisa Marie Presley
+2168	Heart
+2169	Maysa
+2170	ВFI
+2171	Blind Witness
+2172	Stick to Your Guns
+2173	Bury Tomorrow
+2174	Buried in Verona
+2175	War of Ages
+2176	More Than A Thousand
+2177	Miss May I
+2178	Каста
+2179	The Hysteria
+2180	Sarah Where Is My Tea
+2181	Gallows
+2182	Stan Marsh
+2183	The Eyes Of A Traitor
+2184	50 kreon 50
+2185	We Butter The Bread With Butter
+2186	Soulcount
+2187	Dead Silence Hides My Cries
+2188	Abandon All Ships
+2189	Of Mice & Men
+2190	Main-de-Gloire
+2191	Chevelle
+2192	The Mess
+2193	Compelled to Comply
+2194	It Dies Today
+2195	Attack Attack!
+2196	Austrian Death Machine
+2197	Disdained Grace
+2198	Woe Is Me
+2199	The Word Alive
+2200	Deception Of A Ghost
+2201	Fall to the Queen
+2202	Aelpéacha
+2203	Mr. Criminal
+2204	B.G. Knocc Out & Dresta
+2205	Aaliyah
+2206	Lil 1/2 Dead
+2207	Bone Thugs-N-Harmony
+2208	Too $hort
+2209	Alkpote
+2210	Seth Gueko
+2211	Snoop Dogg
+2212	Eazy-E
+2213	Csrd
+2214	DJ Quik
+2215	Roi Heenok
+2216	Spice 1
+2217	Mr. Capone-E
+2218	Booba
+2219	Southcide 13
+2220	Kokane
+2221	Ice Cube
+2222	Busta Flex
+2223	Above the Law
+2224	Ant Banks
+2225	Unité 2 Feu
+2226	Nate Dogg
+2227	Wiz Khalifa
+2228	Swift Guad
+2229	Alborosie
+2230	Yella
+2231	Orelsan
+2232	Dr. Dre
+2233	Domino
+2234	Compton's Most Wanted
+2235	Lunatic
+2236	N.W.A
+2237	Mobb Deep
+2238	Warren G
+2239	Brotha Lynch Hung
+2240	MC Eiht
+2241	Mr. X
+2242	Lil Cuete
+2243	2nd II None
+2244	MSJ
+2245	K-Dee
+2246	Les Sales Blancs
+2247	Foesum
+2248	Big Moves
+2249	Land of Talk
+2250	Simon & Garfunkel
+2251	Kind of Like Spitting
+2252	Maps & Atlases
+2253	Dirty Projectors
+2254	Page France
+2255	The Octopus Project
+2256	Death from Above 1979
+2257	Alban Berg Quartet
+2258	Tera Melos
+2259	Werner Haas/Orchestre National de L'Opéra de Monte-Carlo/Alceo Galliera
+2260	Werner Haas
+2261	Pedro the Lion
+2262	Feist
+2263	Lake
+2264	The Microphones
+2265	The Apples in Stereo
+2266	Deerhoof
+2267	Born Ruffians
+2268	Things People Say
+2269	Broken Social Scene Presents: Brendan Canning
+2270	The American Analog Set
+2271	Big Weird Dutch People
+2272	Dirty Projectors + Björk
+2273	Django Reinhardt
+2274	Stereolab
+2275	Sky Larkin
+2276	No Kids
+2277	Bill Evans
+2278	Jean-Yves Thibaudet
+2279	Braid
+2280	Reverie Sound Revue
+2281	Joe Pass
+2282	Apostle of Hustle
+2283	Sezen Aksu
+2284	Zeki Müren
+2285	Ezginin Günlüğü
+2286	Ajda Pekkan
+2287	Nazan Öncel
+2288	Haris Alexiou
+2289	Yeni Türkü
+2290	İlhan İrem
+2291	Mikis Theodorakis
+2292	Zülfü Livaneli
+2293	Barış Manço
+2294	Hande Yener
+2295	Yıldız Tilbe
+2296	Kostas Pavlidis
+2297	Ahmet Kaya
+2298	Amália Rodrigues
+2299	Cem Karaca
+2300	Mazhar Fuat Özkan
+2301	Mor ve Ötesi
+2302	Sertab Erener
+2303	Nükhet Duru
+2304	Nilüfer
+2305	Candan Erçetin
+2306	Müzeyyen Senar
+2307	Zerrin Özer
+2308	Baba Zula
+2309	Umay Umay
+2310	Mehmet Güreli
+2311	Loyko
+2312	Funda Arar
+2313	Hümeyra
+2314	Selda Bağcan
+2315	Goran Bregović
+2316	Yasmin Levy
+2317	Zuhal Olcay
+2318	Emel Sayın
+2319	Levent Yüksel
+2320	Françoise Atlan
+2321	Erkin Koray
+2322	Düş Sokağı Sakinleri
+2323	Şebnem Ferah
+2324	Teoman
+2325	Marissa Nadler
+2326	Twisted Sister
+2327	Dio
+2328	KISS
+2329	Massacration
+2330	Dee Snider
+2331	Aerosmith
+2332	Van Halen
+2333	Desperado
+2334	Hollywood Rose
+2335	Buckcherry
+2336	Joan Jett
+2337	Creed
+2338	Highway
+2339	Pariisin Kevät
+2340	Von Hertzen Brothers
+2341	Michael Monroe
+2342	The Wildhearts
+2343	Uniklubi
+2344	CMX
+2345	Airbourne
+2346	D-A-D
+2347	Monster Magnet
+2348	Hardcore Superstar
+2349	The Hellacopters
+2350	Audrey Horne
+2351	Karnivool
+2352	Tuvalu
+2353	Animal Alpha
+2354	Type O Negative
+2355	Amorphis
+2356	Day Eleven
+2357	Backyard Babies
+2358	Danko Jones
+2359	Ghost Brigade
+2360	Primus
+2361	Jenni Vartiainen
+2362	Sara
+2363	Neaera
+2364	Trivium
+2365	Godsmack
+2366	Dethklok
+2367	The Crimson Armada
+2368	Amatory
+2369	Unearth
+2370	Flaw
+2371	Bleed From Within
+2372	Winds of Plague
+2373	Before The Torn
+2374	Sea of Treachery
+2375	Mónica Naranjo
+2376	Alejandra Guzmán
+2377	Jessie James
+2378	LeToya
+2379	Celia Cruz
+2380	Chayanne
+2381	Yuri
+2382	Patricia Rivera
+2383	Final Fantasy
+2384	The Lovely Feathers
+2385	dd/mm/yyyy
+2386	The Olivia Tremor Control
+2387	Xiu Xiu
+2388	Chore
+2389	k-os
+2390	TV on the Radio
+2391	They Shoot Horses Don't They
+2392	Stars
+2393	Destroyer
+2394	Jeff Mangum
+2395	The Waking Eyes
+2396	The Ghost is Dancing
+2397	The Music Tapes
+2398	Patrick & Eugene
+2399	Hugh Fraser
+2400	Built to Spill
+2401	The Fiery Furnaces
+2402	Dan Deacon
+2403	Mitch Hedberg
+2404	Billie Holiday
+2405	Elf Power
+2406	Billie Holiday & Teddy Wilson & His Orchestra
+2407	Islands
+2408	Owls & Crows
+2409	The New Pornographers
+2410	Copeland
+2411	I See Stars
+2412	Teddy Geiger
+2413	Kyo
+2414	Architects
+2415	From First to Last
+2416	Luxuria
+2417	Porcelain and the Tramps
+2418	Coeur de Pirate
+2419	A Cursive Memory
+2420	Aloha From Hell
+2421	Keith Urban
+2422	Martina McBride
+2423	Montana Skies
+2424	Rascal Flatts
+2425	Juanes
+2426	Celtic Woman
+2427	Garth Brooks
+2428	Little Big Town
+2429	Billy Joel
+2430	Trace Adkins
+2431	Howard Shore
+2432	Phil Vassar
+2433	Jo Dee Messina
+2434	Brooks & Dunn
+2435	Trisha Yearwood
+2436	Josh Turner
+2437	Laura Sullivan
+2438	Tim McGraw
+2439	Faith Hill
+2440	Toby Keith
+2441	Dierks Bentley
+2442	Lonestar
+2443	Nat King Cole
+2444	Glenn Miller
+2445	João Gilberto
+2446	Benedetti & Svoboda
+2447	Reik
+2448	Boston
+2449	Selena Cross
+2450	Alison Krauss
+2451	Vince Gill
+2452	George Strait
+2453	Alan Jackson
+2454	Peter Gabriel
+2455	Throbbing Gristle
+2456	Current 93
+2457	Foetus
+2458	Fantômas
+2459	Insane Clown Posse
+2460	Captain Beefheart & His Magic Band
+2461	Renaldo and The Loaf
+2462	The Legendary Pink Dots
+2463	Danny Elfman
+2464	Twiztid
+2465	Suicide
+2466	The Birthday Party
+2467	Whitehouse
+2468	King Missile
+2469	Peeping Tom
+2470	Anybody Killa
+2471	Psychic TV
+2472	Happy Mondays
+2473	Public Image Ltd.
+2474	Kaada
+2475	The Specials
+2476	Mike Patton
+2477	FM Einheit
+2478	Mr. Bungle
+2479	Monte Cazazza
+2480	Half Japanese
+2481	Kid606
+2482	IOSYS
+2483	Basshunter
+2484	Wiklund
+2485	Scooter
+2486	REDALiCE
+2487	Nightcore
+2488	dj TAKA
+2489	YMCK
+2490	Bloody Vomit Bukkake
+2491	Morandi
+2492	初音ミク
+2493	Rocco
+2494	Eric Prydz
+2495	반야
+2496	Lucky Twice
+2497	KOTOKO
+2498	Millenium
+2499	Shaun Baker
+2500	Agnieszka Chylińska
+2501	I Cavalieri del re
+2502	Sonic Alive feat. Kate Lesing
+2503	Natalia Lesz
+2504	Robyn
+2505	Shaggy
+2506	Spice Girls
+2507	Mando Diao
+2508	Kid Rock
+2509	Sunrise Avenue
+2510	Delorean
+2511	Morrissey
+2512	Super Furry Animals
+2513	The Drums
+2514	Wild Nothing
+2515	LCD Soundsystem
+2516	Los Planetas
+2517	Graham Coxon
+2518	The Pains of Being Pure at Heart
+2519	Beady Eye
+2520	Los Punsetes
+2521	Best Coast
+2522	My Bloody Valentine
+2523	Lolene
+2524	KT Tunstall
+2525	Paula Fernandes
+2526	Vanessa Carlton
+2527	Hairspray (Soundtrack to the Motion Picture)
+2528	Wanessa
+2529	Lu Alone
+2530	vanessa carllton
+2531	Boom Crash Opera
+2532	Culture Club
+2533	Bay City Rollers
+2534	Hall & Oates
+2535	Naturally 7
+2536	The Power Station
+2537	The Unknownn
+2538	Toto
+2539	Kajagoogoo
+2540	Boz Scaggs
+2541	Julian Lennon
+2542	Arcadia
+2543	Graham Bonnet
+2544	Ricki-Lee
+2545	Extreme
+2546	Peter Cox
+2547	Paul Young
+2548	Billy Connolly
+2549	Styx
+2550	The Doobie Brothers
+2551	Bananarama
+2552	Minus the Bear
+2553	The Appleseed Cast
+2554	The Fall of Troy
+2555	This Town Needs Guns
+2556	Protest The Hero
+2557	Johnny Foreigner
+2558	Idiot Pilot
+2559	Between the Buried and Me
+2560	Biffy Clyro
+2561	Fields
+2562	Foals
+2563	The Most Serene Republic
+2564	Rogue Wave
+2565	toe
+2566	Born of Osiris
+2567	Late of the Pier
+2568	The Arusha Accord
+2569	WinterKids
+2570	Auto!Automatic!!
+2571	The Maccabees
+2572	Hope of the States
+2573	Battles
+2574	SikTh
+2575	Slash
+2576	Maria Daniela Y Su Sonido Lasser
+2577	Los Concorde
+2578	will.i.am
+2579	carla morrison
+2580	We Are Scientists
+2581	Mystery Jets
+2582	Delphic
+2583	Sel
+2584	Gravel
+2585	Bonobo
+2586	The Stone Roses
+2587	The Script
+2588	City and Colour
+2589	UB40
+2590	The Temper Trap
+2591	The Vaccines
+2592	Newton Faulkner
+2593	Mr Hudson & The Library
+2594	Razorlight
+2595	Cast
+2596	Nouvelle Vague
+2597	Pierce the Veil
+2598	Before Their Eyes
+2599	VersaEmerge
+2600	Beatallica
+2601	We Came As Romans
+2602	Pokémon
+2603	Nightmare
+2604	Frank Zappa
+2605	Barenaked Ladies
+2606	Randy Newman
+2607	Ben Folds
+2608	The Weakerthans
+2609	Elvis Costello
+2610	Paul Simon
+2611	Gilbert & Sullivan
+2612	Rufus Wainwright
+2613	Elvis Costello & The Attractions
+2614	Stephen Sondheim
+2615	Jason Robert Brown
+2616	Paddy Milner
+2617	Sublime
+2618	Ella Fitzgerald
+2619	Ben Folds Five
+2620	Neko Case
+2621	Calexico
+2622	The Mothers of Invention
+2623	Thursday
+2624	Hayko Cepkin
+2625	Alexander Rybak
+2626	Manga
+2627	Bill
+2628	The Beat
+2629	Alfonso Moreno-Guitar
+2630	Bozkurt
+2631	Bilal Serbest
+2632	The Classic Crime
+2633	A Rocket to the Moon
+2634	Bloodbath
+2635	Reação em Cadeia
+2636	Finley
+2637	Sonohra
+2638	Studio 3
+2639	Modà
+2640	Bidê ou Balde
+2641	Anberlin
+2642	Lost
+2643	Acústicos & Valvulados
+2644	Lordi
+2645	The Cab
+2646	This Providence
+2647	The Flashbulb
+2648	Amon Tobin
+2649	µ-Ziq
+2650	Chris Clark
+2651	Kettel
+2652	Clark
+2653	Plaid
+2654	Boxcutter
+2655	Ellen Allien & Apparat
+2656	Tycho
+2657	Bola
+2658	Bong-Ra
+2659	Shitmat
+2660	Acrnym
+2661	The Future Sound of London
+2662	Stendeck
+2663	Doormouse
+2664	Duran Duran Duran
+2665	Cardopusher
+2666	Knifehandchop
+2667	Hrvatski
+2668	Wagon Christ
+2669	Sickboy
+2670	Abfahrt Hinwil
+2671	Telefon Tel Aviv
+2672	Xanopticon
+2673	Sabrepulse
+2674	Last Step
+2675	Frog Pocket
+2676	Bit Shifter
+2677	belladonnakillz
+2678	Public Enemy
+2679	Кровосток
+2680	The Speed Freak
+2681	Swampyboy
+2682	Bondage Fairies
+2683	Ed Cox
+2684	Рубль
+2685	minusbaby
+2686	Angerfist
+2687	Linde
+2688	The Rapture
+2689	AleX Tune
+2690	Kodek
+2691	Parov Stelar
+2692	Firebrand Boy
+2693	Ноггано
+2694	DJ Spinbad
+2695	Bonaparte
+2696	DJ Shadow
+2697	64revolt
+2698	Rotator
+2699	KOSMOPOP2
+2700	Electric Dragon
+2701	MICROCOBRA
+2702	Snork25
+2703	Set Your Goals
+2704	Otto von Schirach
+2705	8[bit]chyfruit
+2706	14 Year Old Girls
+2707	Maladroit
+2708	Gidropony
+2709	Bullfrog
+2710	Leviathan
+2711	Кажэ Обойма
+2712	Кожаный Олень
+2713	Uoki-Toki
+2714	Neuro Dubel
+2715	Ляпис Трубецкой
+2716	Бригадный Подряд
+2717	Boney neM
+2718	Bloodhound Gang
+2719	Sacred Steel
+2720	Dezperadoz
+2721	N.R.M.
+2722	Steppenwolf
+2723	Ногу Свело!
+2724	Machine Head
+2725	Robert Miles
+2726	Korpiklaani
+2727	Дельфин
+2728	Катетер
+2729	Deathspell Omega
+2730	Hate
+2731	Watain
+2732	Dead Congregation
+2733	Antaeus
+2734	Funeral Mist
+2735	1349
+2736	Xasthur
+2737	Ihsahn
+2738	Aosoth
+2739	Hour of Penance
+2740	Glorior Belli
+2741	Akercocke
+2742	Aeon
+2743	Decapitated
+2744	Morbosidad
+2745	Vader
+2746	Nightbringer
+2747	Merrimack
+2748	Ulcerate
+2749	Anata
+2750	Teratism
+2751	Russian Circles
+2752	Blut aus Nord
+2753	Le Scrawl
+2754	Dark Funeral
+2755	dredg
+2756	Unholy Matrimony
+2757	Malfeitor
+2758	Cryptopsy
+2759	Arkhon Infaustus
+2760	Lita Ford
+2761	Vains of Jenna
+2762	Vixen
+2763	Lenny Kravitz
+2764	Hanoi Rocks
+2765	Sixx:A.M.
+2766	Janis Joplin
+2767	Whitesnake
+2768	Joan Jett and the Blackhearts
+2769	Velvet Revolver
+2770	CRASHDÏET
+2771	Slash's Snakepit
+2772	Cheap Trick
+2773	THE PARANOID
+2774	Alter Bridge
+2775	Izzy Stradlin
+2776	Sweet
+2777	Mr. Big
+2778	F.T Island
+2779	f(x)
+2780	이효리
+2781	High School Musical
+2782	현아
+2783	MBLAQ
+2784	손담비
+2785	Shy'm
+2786	ZE:A
+2787	이정현
+2788	黒木メイサ
+2789	Claude Kelly
+2790	Distance
+2791	Xploding Plastix
+2792	Callisto
+2793	Dub FX
+2794	Little Barrie
+2795	Maxïmo Park
+2796	Superturbo
+2797	Cult of Luna
+2798	The Bloody Beetroots
+2799	Plastician
+2800	Sakura
+2801	The Dead Weather
+2802	Fuzzy Pets
+2803	Eagles of Death Metal
+2804	Paul Kalkbrenner
+2805	Portland Cello Project
+2806	The White Trainers Community
+2807	8th
+2808	Red Sparowes
+2809	Flobots
+2810	Kap Bambino
+2811	The Dust Brothers
+2812	Черная Экономика
+2813	Blind Sinners
+2814	Lynyrd Skynyrd
+2815	Serj Tankian
+2816	Scars on Broadway
+2817	The Reign Of Kindo
+2818	Manowar
+2819	Automatic Loveletter
+2820	Dashboard Confessional
+2821	Gym Class Heroes
+2822	Stevie Ray Vaughan
+2823	Trapt
+2824	Tuatha De Danann
+2825	Closure In Moscow
+2826	Nonpoint
+2827	Emarosa
+2828	Ultraje a Rigor
+2829	The Scorpions
+2830	Underoath
+2831	Powerman 5000
+2832	Jim Sturgess
+2833	Thin Lizzy
+2834	Free
+2835	Cream
+2836	Night Ranger
+2837	Donovan
+2838	Jace Everett
+2839	Warrant
+2840	Jim Sturgess & Joe Anderson
+2841	Rod Stewart
+2842	Dudley Taft
+2843	Kirk Fletcher
+2844	Stevie Ray Vaughan and Double Trouble
+2845	Anders Osborne
+2846	Curtis Salgado
+2847	Lance Lopez
+2848	Andy Egert Blues Band
+2849	Canned Heat
+2850	Jeff Beck with Terry Bozzio and Tony Hymas
+2851	Rory Gallagher
+2852	Tab Benoit
+2853	Joe Bonamassa
+2854	Eric Jerardi
+2855	Rusty Zinn
+2856	Ann Rabson
+2857	Wes Jeans
+2858	Finis Tasby
+2859	Ace Moreland
+2860	The Beat Daddys
+2861	Texas Red
+2862	Devon Allman's Honeytribe
+2863	John Mayall & The Bluesbreakers Featuring Buddy Guy
+2864	MORBLUS - Funky Blues Band
+2865	John Lyons Band
+2866	The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan
+2867	Dennis Gruenling
+2868	Elvin Bishop, George Thorogood
+2869	Chris Dair
+2870	Rod Piazza & The Blues Instigators
+2871	Bobby Greenshoes Parker
+2872	GT & The Bandits
+2873	Van Morrison
+2874	Buddy Guy
+2875	Peter Green
+2876	Albert Collins
+2877	Tutu Jones
+2878	Humble Pie
+2879	The Animals
+2880	Shakin' Stevens
+2881	ZZ Top
+2882	Buddy Holly
+2883	Chino XL
+2884	Stack Bundles
+2885	P. Diddy
+2886	"Royce da 5'9"""
+2887	Redman
+2888	Large Professor
+2889	Canibus
+2890	Cam'ron
+2891	EPMD
+2892	Aries Spears
+2893	Joe Budden
+2894	Ras Kass
+2895	Kool G Rap
+2896	Lloyd Banks
+2897	The Diplomats
+2898	KMD
+2899	Busta Rhymes
+2900	Juelz Santana & Lil Wayne
+2901	Ghostface Killah
+2902	LL Cool J
+2903	Lupe Fiasco
+2904	G-Unit
+2905	O.C.
+2906	Main Source
+2907	Jadakiss
+2908	Uncle Murda
+2909	Eric B. & Rakim
+2910	Big Punisher
+2911	Talib Kweli
+2912	Skee-Lo
+2913	Five Star
+2914	Milk Inc.
+2915	Iris
+2916	A Flock of Seagulls
+2917	Naked Eyes
+2918	Echo & The Bunnymen
+2919	JLS
+2920	Dead by April
+2921	Hinder
+2922	Kiana
+2923	Twisted Method
+2924	Machinae Supremacy
+2925	Dommin
+2926	Tread
+2927	Destrophy
+2928	Engel
+2929	Saidian
+2930	Blowsight
+2931	All Ends
+2932	Azam Ali
+2933	myGRAIN
+2934	Ambeon
+2935	Bury Your Dead
+2936	Adema
+2937	Queen of the damned ost
+2938	The Cyan Velvet Project
+2939	Eyes Set to Kill
+2940	Renegade Five
+2941	Pain
+2942	Devin Townsend Project
+2943	Norther
+2944	Strapping Young Lad
+2945	The Devin Townsend Band
+2946	Insomnium
+2947	Murderdolls
+2948	Elias Viljanen
+2949	Wintersun
+2950	Hypocrisy
+2951	Animals as Leaders
+2952	Star One
+2953	Dokken
+2954	Skyfire
+2955	Firewind
+2956	Chamillionaire
+2957	Kris Allen
+2958	Dead by Sunrise
+2959	Jessica Andrews
+2960	Cassie Steele
+2961	Christina Perri
+2962	The Band Perry
+2963	Detonautas Roque Clube
+2964	Claudia Leitte
+2965	Hannah Montana ft. Jonas Brothers
+2966	Rosa De Saron
+2967	HEVO84
+2968	Maria Gadú
+2969	Rihanna (feat. Drake)
+2970	Shontelle
+2971	Fats Waller
+2972	Bix Beiderbecke
+2973	Lionel Hampton
+2974	Sidney Bechet
+2975	Chick Webb
+2976	Uncle Dave Macon
+2977	Charlie Christian
+2978	Slim Gaillard
+2979	Wynonie Harris
+2980	Doc Watson
+2981	The Carter Family
+2982	Fletcher Henderson
+2983	Duke Ellington
+2984	Sonny Rollins
+2985	Louis Jordan
+2986	Slim & Slam
+2987	Iftin
+2988	Cab Calloway
+2989	Jack Teagarden
+2990	Drum Rudiments
+2991	The Stooges
+2992	Count Basie
+2993	Jimmie Lunceford
+2994	Milton
+2995	Benny Goodman
+2996	Jimmie Rodgers
+2997	Eddie Bo
+2998	Botswana Music Guitar
+2999	Louis Armstrong
